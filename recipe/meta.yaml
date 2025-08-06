@@ -1,4 +1,4 @@
-{% set version = "3.0.5" %}
+{% set version = "3.0.6" %}
 
 package:
   name: aurelia-cli
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/aurelia-cli/-/aurelia-cli-{{ version }}.tgz
-  sha256: 44700da8eafc3a1a67d2998a089aec645be2ea332afcb89c8cace641b38179b8
+  sha256: 5543112699aa7498ca3a4269fc0acabf7493503f3d673ed9b7cf8a08ea8fd835
 
 build:
   number: 0
